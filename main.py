@@ -2,7 +2,7 @@
 import random, sys, os, platform
 from colorama import init, Fore, Style
 
-init() # Initialize clorama
+init() # Initialize colorama
 
 # Create password function
 def create_password() -> str:
